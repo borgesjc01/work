@@ -1,4 +1,5 @@
 <?php 
+/*CONSTANTS*/
 const MODULO ='usuarios/';
 # controladores 
 const SET_USER = 'set';
